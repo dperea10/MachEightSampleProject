@@ -1,0 +1,20 @@
+{
+  "name": "macheightsampleproject",
+  "version": "1.0.0",
+  "description": "task hastable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-file": "node config/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dperea10/MachEightSampleProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dperea10/MachEightSampleProject/issues"
+  },
+  "homepage": "https://github.com/dperea10/MachEightSampleProject#readme"
+}
